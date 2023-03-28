@@ -1,0 +1,1 @@
+const e={key:"v-38a283ca",path:"/developer/js-sdk/",title:"Introduction",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Features",slug:"features",children:[]},{level:2,title:"Instalation",slug:"instalation",children:[]}],filePathRelative:"developer/js-sdk/index.md"};export{e as data};

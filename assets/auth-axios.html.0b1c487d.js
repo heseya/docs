@@ -1,0 +1,1 @@
+const e={key:"v-c0292826",path:"/developer/js-sdk/auth-axios.html",title:"Auth Axios Enhancer",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Config object",slug:"config-object",children:[]}],filePathRelative:"developer/js-sdk/auth-axios.md"};export{e as data};

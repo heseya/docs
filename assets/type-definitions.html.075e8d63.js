@@ -1,0 +1,1 @@
+const e={key:"v-05cb035e",path:"/developer/js-sdk/type-definitions.html",title:"Type definitions",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"developer/js-sdk/type-definitions.md"};export{e as data};

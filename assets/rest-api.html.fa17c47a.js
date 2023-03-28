@@ -1,0 +1,1 @@
+const e={key:"v-4b7f843a",path:"/developer/rest-api.html",title:"Rest API",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Definitions",slug:"definitions",children:[]}],filePathRelative:"developer/rest-api.md"};export{e as data};

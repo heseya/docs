@@ -1,0 +1,1 @@
+const e={key:"v-4a5e69dc",path:"/developer/js-sdk/config.html",title:"Config object",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Config object properties",slug:"config-object-properties",children:[]}],filePathRelative:"developer/js-sdk/config.md"};export{e as data};
