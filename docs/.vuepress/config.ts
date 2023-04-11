@@ -83,6 +83,13 @@ export default {
           '/developer/js-sdk/utils.md',
         ],
       },
+      {
+        text: 'PHP Tools',
+        collapsible: true,
+        children: [
+          '/developer/app-helper/index.md',
+        ],
+      },
     ],
   },
 
